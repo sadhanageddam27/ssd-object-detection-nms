@@ -11,7 +11,7 @@ zero-shot Human-Object Interaction analysis using Vision-Language Models.
 
 ## Live Project Report
 Full results with images and analysis:
-**https://sadhanageddam27.github.io/project3/**
+(https://sadhanageddam27.github.io/ssd-object-detection-nms/)
 
 ---
 
